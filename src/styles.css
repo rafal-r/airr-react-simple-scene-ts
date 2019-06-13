@@ -1,0 +1,15 @@
+.blue-view,
+.red-view {
+  padding: 5rem;
+  color: #fff;
+  height: 100%;
+}
+.blue-view {
+  background-color: blue;
+}
+.red-view {
+  background-color: red;
+}
+#root {
+  height: 100%;
+}
